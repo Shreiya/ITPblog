@@ -1,12 +1,9 @@
-/*!
- * Start Bootstrap - Clean Blog v4.0.0-beta (https://startbootstrap.com/template-overviews/clean-blog)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
- */
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
 body {
   font-size: 20px;
   color: #333333;
-  font-family: 'Lora', 'Times New Roman', serif; }
+  font-family: 'Roboto', sans-serif; }
 
 p {
   line-height: 1.5;
@@ -197,7 +194,7 @@ header.masthead {
     font-size: 20px;
     font-weight: 300;
     font-style: italic;
-    font-family: 'Lora', 'Times New Roman', serif; }
+    font-family: 'Roboto', sans-serif; }
     header.masthead .post-heading .meta a {
       color: white; }
   @media only screen and (min-width: 768px) {
@@ -252,11 +249,11 @@ header.masthead {
     border-radius: 0;
     background: none;
     box-shadow: none !important;
-    font-family: 'Lora', 'Times New Roman', serif; }
+    font-family: 'Roboto', sans-serif; }
     .floating-label-form-group input::-webkit-input-placeholder,
     .floating-label-form-group textarea::-webkit-input-placeholder {
       color: #777777;
-      font-family: 'Lora', 'Times New Roman', serif; }
+      font-family: 'Roboto', sans-serif; }
   .floating-label-form-group label {
     font-size: 0.85em;
     line-height: 1.764705882em;
