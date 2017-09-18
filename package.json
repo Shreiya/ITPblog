@@ -1,29 +1,15 @@
 {
-  "title": "Clean Blog",
-  "name": "startbootstrap-clean-blog",
+  "title": "Shreiya ITP Blog",
+  "name": "Shreiya'a ITP Blog",
   "version": "4.0.0-beta",
-  "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
-  "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
-    "template"
-  ],
-  "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues",
-    "email": "feedback@startbootstrap.com"
-  },
+  "description": "Just a blog about wires and sound. Sometimes together, sometimes not.",
+  "homepage": "https://shreiya.me",
   "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
+  "author": "Shreiya Chowdhary",
+
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
+    "url": "https://github.com/Shreiya/ITPblog.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
